@@ -63,7 +63,7 @@ const Profile = () => {
             value={role}
             onChange={(e) => setRole(e.target.value)}
           />
-          <p>アカウントです</p>
+          <p>のアカウントです</p>
         </div>
         <div className="mb-6">
           <label
